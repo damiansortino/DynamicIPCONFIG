@@ -1,0 +1,14 @@
+D:\GIT\DynamicIPCONFIG\bin\Release\MartinaIPView.exe.config
+D:\GIT\DynamicIPCONFIG\bin\Release\MartinaIPView.exe
+D:\GIT\DynamicIPCONFIG\bin\Release\MartinaIPView.pdb
+D:\GIT\DynamicIPCONFIG\obj\Release\DynamicIPCONFIG.Form1.resources
+D:\GIT\DynamicIPCONFIG\obj\Release\DynamicIPCONFIG.Properties.Resources.resources
+D:\GIT\DynamicIPCONFIG\obj\Release\DynamicIPCONFIG.csproj.GenerateResource.cache
+D:\GIT\DynamicIPCONFIG\obj\Release\DynamicIPCONFIG.csproj.CoreCompileInputs.cache
+D:\GIT\DynamicIPCONFIG\obj\Release\MartinaIPView.exe
+D:\GIT\DynamicIPCONFIG\obj\Release\MartinaIPView.pdb
+D:\GIT\DynamicIPCONFIG\bin\Release\MartinaIPView.exe.manifest
+D:\GIT\DynamicIPCONFIG\bin\Release\MartinaIPView.application
+D:\GIT\DynamicIPCONFIG\obj\Release\MartinaIPView.exe.manifest
+D:\GIT\DynamicIPCONFIG\obj\Release\MartinaIPView.application
+D:\GIT\DynamicIPCONFIG\obj\Release\DynamicIPCONFIG.csproj.AssemblyReference.cache

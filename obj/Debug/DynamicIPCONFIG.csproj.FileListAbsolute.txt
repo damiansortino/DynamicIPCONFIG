@@ -1,0 +1,16 @@
+D:\GIT\DynamicIPCONFIG\bin\Debug\MartinaIPView.exe.config
+D:\GIT\DynamicIPCONFIG\bin\Debug\MartinaIPView.exe.manifest
+D:\GIT\DynamicIPCONFIG\bin\Debug\MartinaIPView.application
+D:\GIT\DynamicIPCONFIG\bin\Debug\MartinaIPView.exe
+D:\GIT\DynamicIPCONFIG\bin\Debug\MartinaIPView.pdb
+D:\GIT\DynamicIPCONFIG\bin\Debug\zu-ZA\MartinaIPView.resources.dll
+D:\GIT\DynamicIPCONFIG\obj\Debug\DynamicIPCONFIG.Form1.resources
+D:\GIT\DynamicIPCONFIG\obj\Debug\DynamicIPCONFIG.Properties.Resources.resources
+D:\GIT\DynamicIPCONFIG\obj\Debug\DynamicIPCONFIG.Form1.zu-ZA.resources
+D:\GIT\DynamicIPCONFIG\obj\Debug\DynamicIPCONFIG.csproj.GenerateResource.cache
+D:\GIT\DynamicIPCONFIG\obj\Debug\DynamicIPCONFIG.csproj.CoreCompileInputs.cache
+D:\GIT\DynamicIPCONFIG\obj\Debug\zu-ZA\MartinaIPView.resources.dll
+D:\GIT\DynamicIPCONFIG\obj\Debug\MartinaIPView.exe.manifest
+D:\GIT\DynamicIPCONFIG\obj\Debug\MartinaIPView.application
+D:\GIT\DynamicIPCONFIG\obj\Debug\MartinaIPView.exe
+D:\GIT\DynamicIPCONFIG\obj\Debug\MartinaIPView.pdb
