@@ -12,3 +12,6 @@ D:\GIT\DynamicIPCONFIG\bin\Release\MartinaIPView.application
 D:\GIT\DynamicIPCONFIG\obj\Release\MartinaIPView.exe.manifest
 D:\GIT\DynamicIPCONFIG\obj\Release\MartinaIPView.application
 D:\GIT\DynamicIPCONFIG\obj\Release\DynamicIPCONFIG.csproj.AssemblyReference.cache
+D:\GIT\DynamicIPCONFIG\bin\Release\zu-ZA\MartinaIPView.resources.dll
+D:\GIT\DynamicIPCONFIG\obj\Release\DynamicIPCONFIG.Form1.zu-ZA.resources
+D:\GIT\DynamicIPCONFIG\obj\Release\zu-ZA\MartinaIPView.resources.dll

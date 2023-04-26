@@ -43,14 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MartinaIPView.exe" size="361952">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MartinaIPView.exe" size="366560">
       <assemblyIdentity name="MartinaIPView" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8OueHhU3buX/Tc+NmNmfHYM5C3RiDWvDP7kSEQ8VBJ4=</dsig:DigestValue>
+        <dsig:DigestValue>5JblQuCrMjF5dZfcOHiCKQm6IgC/D5r8gu1uFsRXmN8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zu-ZA\MartinaIPView.resources.dll" size="69632">
+      <assemblyIdentity name="MartinaIPView.resources" version="1.0.0.0" language="zu-ZA" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cgNA3Nk+Z7v7Ybq4vzUvSpXF7m9pHUb4p8X7mxJ8LaM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
